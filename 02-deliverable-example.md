@@ -142,7 +142,7 @@ Nhóm 3-4 người, mỗi người share top 3. Tổng cộng khoảng 9-12 cand
 | Review / feedback | Review PRD, check Problem Statement, review assignment | Đọc bản nháp và chỉ ra thiếu sót |
 | Planning / follow-up | Action item tracking, deadline reminder | Sau cuộc họp/lab có nhiều việc bị rơi |
 
-## Shortlist và score
+## Bảng Điểm Shortlist (Top 3)
 
 | Candidate | Actor rõ | Workflow rõ | Pain có evidence | Impact đo được | Làm trong lab | So sánh R/W/A được | Nhóm hiểu domain | Tổng |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
